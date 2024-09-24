@@ -35,4 +35,4 @@ The **Weather App** is a dynamic web application that provides real-time weather
 - **Visual Enhancements:** Include weather-related icons or animations to provide a more visually appealing and engaging experience.
 
 ### Contributions:
-Contributions to enhance the app's features, optimize performance, or improve the user experience are welcome. Feel free to fork the repository, create a new branch, and submit a pull request. Issues and suggestions for new features or bug fixes can be submitted via the [mailto:business@jasim.io](#), and discussions for improvements are encouraged.
+Contributions to enhance the app's features, optimize performance, or improve the user experience are welcome. Feel free to fork the repository, create a new branch, and submit a pull request. Issues and suggestions for new features or bug fixes can be submitted via the [business@jasim.io](#), and discussions for improvements are encouraged.

@@ -22,7 +22,7 @@ The **Weather App** is a dynamic web application that provides real-time weather
 ### How to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jasim-ansari-23/Weather-app.git
+   https://github.com/mo-jasim/Weather-app.git
    ```
 2. Navigate to the project directory and open the `index.html` file in your preferred browser.
 3. Enter the name of the city in the search bar to retrieve the current weather information for that location.

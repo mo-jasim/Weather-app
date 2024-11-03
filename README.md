@@ -1,6 +1,6 @@
 # Weather-app
 
-Check out the Weather app at: [https://weather.jasim.io/]
+Check out the Weather app at: [http://weather.buildwithjasim.tech/]
 
 ### About
 The **Weather App** is a dynamic web application that provides real-time weather information for any location across the globe. It offers users a simple and intuitive interface to search for current weather conditions by city name, providing data such as temperature, humidity, wind speed, and weather descriptions. The app is designed to deliver accurate and timely weather updates, utilizing data from reliable weather APIs, making it a useful tool for everyday use, travel planning, or monitoring local weather conditions.
